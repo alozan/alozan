@@ -8,4 +8,4 @@
 - 🌱 Actualmente estoy estudiando un curso en Data Science
 - 💞️ Me gustaria colaborar en Data science, machine learning,
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)

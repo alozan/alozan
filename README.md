@@ -18,3 +18,5 @@ Welcome to this repository ![visitors](https://visitor-badge.glitch.me/badge?pag
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alozan&show_icons=true&theme=tokyonight)

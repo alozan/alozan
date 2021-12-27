@@ -17,7 +17,7 @@
 
 </p>
 
-[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/Alozan)
+[![Github](https://img.shields.io/github/followers/Alozan?label=Follow&style=social)](https://github.com/Alozan)
 
 Welcome to this repository ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 

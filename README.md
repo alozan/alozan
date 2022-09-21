@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alozan
-- 👀 I’m interested in computers, servers, computer networking, had a ccna course, worked in ceramics, designing floors, as an educator, have a master in MBA with finance
-- 🌱 Data science startup
-- 💞️ I’m looking to collaborate on Data science, machine learning
+-  Hi, I’m @alozan
+-  I’m interested in computers, servers, computer networking, had a ccna course, worked in ceramics, designing floors, as an educator, have a master in MBA with finance
+-  Data science startup
+-  I’m looking to collaborate on Data science, machine learning
 
 ## 🧰 Languages and Tools:
 <p align="center">
